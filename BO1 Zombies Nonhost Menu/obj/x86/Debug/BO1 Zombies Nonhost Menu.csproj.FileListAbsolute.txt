@@ -1,0 +1,13 @@
+C:\Users\Joshua Duque\Documents\Visual Studio 2017\Projects\BO1 Zombies Nonhost Menu\BO1 Zombies Nonhost Menu\bin\x86\Debug\BO1 Zombies Nonhost Menu.exe.config
+C:\Users\Joshua Duque\Documents\Visual Studio 2017\Projects\BO1 Zombies Nonhost Menu\BO1 Zombies Nonhost Menu\bin\x86\Debug\BO1 Zombies Nonhost Menu.exe
+C:\Users\Joshua Duque\Documents\Visual Studio 2017\Projects\BO1 Zombies Nonhost Menu\BO1 Zombies Nonhost Menu\bin\x86\Debug\BO1 Zombies Nonhost Menu.pdb
+C:\Users\Joshua Duque\Documents\Visual Studio 2017\Projects\BO1 Zombies Nonhost Menu\BO1 Zombies Nonhost Menu\bin\x86\Debug\PS3Lib.dll
+C:\Users\Joshua Duque\Documents\Visual Studio 2017\Projects\BO1 Zombies Nonhost Menu\BO1 Zombies Nonhost Menu\bin\x86\Debug\PS3Lib.xml
+C:\Users\Joshua Duque\Documents\Visual Studio 2017\Projects\BO1 Zombies Nonhost Menu\BO1 Zombies Nonhost Menu\obj\x86\Debug\BO1_Zombies_Nonhost_Menu.mainform.resources
+C:\Users\Joshua Duque\Documents\Visual Studio 2017\Projects\BO1 Zombies Nonhost Menu\BO1 Zombies Nonhost Menu\obj\x86\Debug\BO1_Zombies_Nonhost_Menu.Properties.Resources.resources
+C:\Users\Joshua Duque\Documents\Visual Studio 2017\Projects\BO1 Zombies Nonhost Menu\BO1 Zombies Nonhost Menu\obj\x86\Debug\BO1 Zombies Nonhost Menu.csproj.GenerateResource.cache
+C:\Users\Joshua Duque\Documents\Visual Studio 2017\Projects\BO1 Zombies Nonhost Menu\BO1 Zombies Nonhost Menu\obj\x86\Debug\BO1 Zombies Nonhost Menu.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Duque\Documents\Visual Studio 2017\Projects\BO1 Zombies Nonhost Menu\BO1 Zombies Nonhost Menu\obj\x86\Debug\BO1 Zombies Nonhost Menu.csproj.CopyComplete
+C:\Users\Joshua Duque\Documents\Visual Studio 2017\Projects\BO1 Zombies Nonhost Menu\BO1 Zombies Nonhost Menu\obj\x86\Debug\BO1 Zombies Nonhost Menu.exe
+C:\Users\Joshua Duque\Documents\Visual Studio 2017\Projects\BO1 Zombies Nonhost Menu\BO1 Zombies Nonhost Menu\obj\x86\Debug\BO1 Zombies Nonhost Menu.pdb
+C:\Users\Joshua Duque\Documents\Visual Studio 2017\Projects\BO1 Zombies Nonhost Menu\BO1 Zombies Nonhost Menu\obj\x86\Debug\BO1 Zombies Nonhost Menu.csprojAssemblyReference.cache
